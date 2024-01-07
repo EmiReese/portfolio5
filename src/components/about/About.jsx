@@ -40,7 +40,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Motivated software engineer with an extensive knowledge of web development, design, and coding, as well experience in a wide range of programming languages, frameworks, and tools. Proven success in developing and deploying applications, websites, and web services. Highly organized and detail-oriented, with a knack for finding creative solutions for challenging problems. Results-driven Web Developer develops cutting-edge websites and applications. Expertise in HTML, CSS, JavaScript, React, Node.js, C# and other web technologies. Skilled at developing custom solutions to fit client needs while delivering high-quality products on time and under-budget.</p>
+          <p>Motivated software engineer with an extensive knowledge of software engineering, design, and QA testing, as well experience in a wide range of programming languages, frameworks, and tools. Proven success in developing and deploying applications, websites, and web services. Highly organized and detail-oriented, with a knack for finding creative solutions for challenging problems. Results-driven Web Developer develops cutting-edge websites and applications. Expertise in HTML, CSS, JavaScript, React, Node.js, C# and other web technologies. Skilled at developing custom solutions to fit client needs while delivering high-quality products on time and under-budget.</p>
         
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
