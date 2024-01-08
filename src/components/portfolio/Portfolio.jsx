@@ -14,10 +14,9 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={image1} alt="CSS coding" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Professional Work from FetchGoat</h3>
           <div className='portfolio__item-cta'>
             <a href="https://github.com" className='btn' target="_blank">Github</a>
-            <a href="https://dribbble.com/ALien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
 
@@ -25,10 +24,9 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={image3} alt="CSS coding" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>C# Application</h3>
           <div className='portfolio__item-cta'>
-            <a href="https://github.com" className='btn' target="_blank">Github</a>
-            <a href="https://dribbble.com/ALien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+            <a href="https://github.com/EmiReese/NumberGuesser" className='btn' target="_blank">Github</a>
           </div>
         </article>
 
@@ -36,10 +34,9 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={image2} alt="CSS coding" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>JavaScript Web Scraper</h3>
           <div className='portfolio__item-cta'>
-            <a href="https://github.com" className='btn' target="_blank">Github</a>
-            <a href="https://dribbble.com/ALien_pixels" className='btn btn-primary' target="_blank">Live Demo</a>
+            <a href="https://github.com/EmiReese/WebScraper" className='btn' target="_blank">Github</a>
           </div>
         </article>
       </div>
