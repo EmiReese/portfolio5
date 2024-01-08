@@ -23,20 +23,20 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon' />
-              <h5>Experience</h5>
-              <small>1 year of professional experience</small>
+              <h5>Professional Experience</h5>
+              <small>1 year</small>
             </article>
 
             <article className='about__card'>
               <PiUsersBold className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Languages and Frameworks</h5>
+              <small>10+</small>
             </article>
 
             <article className='about__card'>
               <FaFolderOpen className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>40+ Projects</small>
             </article>
           </div>
 
