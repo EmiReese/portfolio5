@@ -1,11 +1,10 @@
 import React from 'react'
-import {CiLinkedin} from "react-icons/ci"
-import { FaGithub } from "react-icons/fa"
+import { FaGithub, FaLinkedin } from "react-icons/fa"
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href="www.linkedin.com/in/emily-reese-55488629a/" target="_blank"><CiLinkedin /></a>
-        <a href="www.github.com" target="_blank"><FaGithub /></a>
+         <a href="https://www.linkedin.com/in/emily-reese-55488629a/"><FaLinkedin /></a>
+        <a href="https://github.com/EmiReese"><FaGithub /></a>
     </div>
   )
 }
