@@ -22,17 +22,17 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={image3} alt="CSS coding" />
+            <img src={image3} alt="apple laptop" />
           </div>
-          <h3>C# Application</h3>
+          <h3>TypeScript Application</h3>
           <div className='portfolio__item-cta'>
-            <a href="https://github.com/EmiReese/NumberGuesser" className='btn' target="_blank">Github</a>
+            <a href="https://emireese.github.io/EvolveFitness/" className='btn' target="_blank">Github</a>
           </div>
         </article>
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={image2} alt="CSS coding" />
+            <img src={image2} alt="javascript coding" />
           </div>
           <h3>JavaScript Web Scraper</h3>
           <div className='portfolio__item-cta'>
